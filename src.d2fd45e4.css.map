@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KAEE,aAAc,CACd,yBACF,CAMA,uBACE,qBACF","file":"src.d2fd45e4.css","sourceRoot":"..","sourcesContent":["body {\n  background-color: #ffffff;\n  height: 1200px;\n  font-family: \"Poppins\", serif;\n}\n\n.container {\n  background-color: #ffffff;\n}\n\n#chart {\n  background-color: #ffffff;\n}\n"]}
